@@ -40,3 +40,15 @@ You can see the example complete in directory **src/example/ExampleImplementatio
         />)
     }
 ```
+
+**Extra note, is required is Google API script to work**
+```Html
+    //public/index.html
+    ...
+    <body>
+        <noscript>You need to enable JavaScript to run this app.</noscript>
+        <div id="root"></div>
+        <script src="https://maps.googleapis.com/maps/api/js?key=YOUR-KEY-GOOGLE-API=places"></script>
+    </body>
+    ... 
+```
