@@ -41,7 +41,7 @@ You can see the example complete in directory **src/example/ExampleImplementatio
     }
 ```
 
-**Extra note, is required is Google API script to work**
+**Additional note, the Google API script is required.**
 ```Html
     //public/index.html
     ...
