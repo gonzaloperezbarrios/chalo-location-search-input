@@ -1,7 +1,7 @@
 {
   "private": false,
   "name": "chalo-location-search-input",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "A React component to build a customized UI of https://github.com/hibiken/react-places-autocomplete",
   "main": "build/index.js",
   "peerDependencies": {
